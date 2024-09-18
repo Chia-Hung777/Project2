@@ -13,7 +13,7 @@ Visualize data distributions using histograms, boxplots, and other visualization
 Identify patterns, trends, or anomalies within the data.
 
 3. Classification
-Implement multiple classifiers (e.g., Decision Tree, Random Forest, Support Vector Machine, etc.) on the dataset.
+Implement multiple classifiers (e.g., K Nearest Neighbor, Support Vector Machine, etc.) on the dataset.
 Evaluate the performance of each classifier using metrics like accuracy, precision, recall, and F1 score.
 Compare the classifiers' performance and select the best-performing ones.
 4. Hyperparameter Optimization (Grid Search)
