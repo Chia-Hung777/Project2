@@ -1,6 +1,7 @@
 # Project2
  Exploratory Data Analysis and Machine Learning Classifier
 
+ The file name is 3009_KNN
 # Project Overview
 This project involves conducting exploratory data analysis (EDA) and applying machine learning classifiers on datasets labeled F1 to F10. The objective is to build, optimize, and evaluate classifiers, as well as to use SHAP values for feature importance analysis. The final outcome includes identifying the best-performing model and key influential features.
 
